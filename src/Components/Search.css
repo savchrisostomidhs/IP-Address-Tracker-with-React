@@ -1,6 +1,6 @@
 .search {
     align-items: center;
-    background: url(pattern-bg-desktop.png) repeat-x;
+    background: url(/pattern-bg-desktop.png) repeat-x;
     display: flex;
     flex-direction: column;
     flex: 0 0 280px;
@@ -69,6 +69,6 @@ h1 {
 
 @media (max-width: 380px) {
     .search {
-        background: url(pattern-bg-mobile.png) repeat-x;
+        background: url(/pattern-bg-mobile.png) repeat-x;
     }
 }
